@@ -1,0 +1,56 @@
+VLSM
+VLAN 10: 192.168.10.0
+VLAN 20: 192.168.20.0
+
+Room1:
+VLAN10:
+Network ID:192.168.10.0
+BroadCast: 192.168.10.7
+Usable IPS: 192.168.10.1 - 6
+Gateway: 192.168.10.6
+
+VLAN20:
+Network ID:192.168.20.0
+BroadCast: 192.168.20.7
+Usable IPS: 192.168.20.1 - 6
+Gateway: 192.168.20.6
+
+Room2:
+VLAN10:
+Network ID:192.168.10.8
+BroadCast: 192.168.10.15
+Usable IPS: 192.168.10.9 - 14
+Gateway: 192.168.10.14
+
+VLAN20:
+Network ID:192.168.20.8
+BroadCast: 192.168.20.15
+Usable IPS: 192.168.20.9-14
+Gateway: 192.168.20.14
+
+Room3:
+VLAN10:
+Network ID:192.168.10.16
+BroadCast: 192.168.10.23
+Usable IPS: 192.168.10.17 - 22
+Gateway: 192.168.10.22
+
+VLAN20:
+Network ID:192.168.20.16
+BroadCast: 192.168.20.23
+Usable IPS: 192.168.20.17-22
+Gateway: 192.168.20.22
+
+Room4:
+VLAN10:
+Network ID:192.168.10.24
+BroadCast: 192.168.10.31
+Usable IPS: 192.168.10.25 - 30
+Gateway: 192.168.10.30
+
+VLAN20:
+Network ID:192.168.20.24
+BroadCast: 192.168.20.31
+Usable IPS: 192.168.20.25 - 30
+Gateway: 192.168.20.30
+

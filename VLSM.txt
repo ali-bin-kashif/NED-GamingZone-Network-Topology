@@ -41,16 +41,16 @@ BroadCast: 192.168.20.23
 Usable IPS: 192.168.20.17-22
 Gateway: 192.168.20.22
 
-Room4:
+Room4 (DHCP) Configured:
 VLAN10:
 Network ID:192.168.10.24
 BroadCast: 192.168.10.31
 Usable IPS: 192.168.10.25 - 30
-Gateway: 192.168.10.30
+Gateway: 192.168.10.25
 
 VLAN20:
 Network ID:192.168.20.24
 BroadCast: 192.168.20.31
 Usable IPS: 192.168.20.25 - 30
-Gateway: 192.168.20.30
+Gateway: 192.168.20.25
 
